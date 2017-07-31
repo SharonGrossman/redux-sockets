@@ -1,4 +1,4 @@
-# redux-sockets
+# redux-sockets ![BuildStatus](https://travis-ci.org/SharonGrossman/redux-sockets.svg?branch=master)
 
 ## Install
 ```
