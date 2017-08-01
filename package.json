@@ -1,7 +1,7 @@
 {
   "name": "redux-sockets",
   "version": "1.0.0",
-  "description": "",
+  "description": "An integration between redux and socket.io",
   "main": "lib/index.js",
   "scripts": {
     "lint": "run-p lint-*",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SharonGrossman/redux-sockets.io.git"
+    "url": "git+https://github.com/SharonGrossman/redux-sockets.git"
   },
   "keywords": [],
   "author": "",
