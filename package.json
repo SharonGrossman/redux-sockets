@@ -19,9 +19,14 @@
     "type": "git",
     "url": "git+https://github.com/SharonGrossman/redux-sockets.git"
   },
-  "keywords": [],
+  "keywords": [
+    "redux",
+    "socket",
+    "socket.io",
+    "reducer"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SharonGrossman/redux-sockets/issues"
   },
